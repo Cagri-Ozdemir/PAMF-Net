@@ -5,7 +5,7 @@ Pathway-Aware Multimodal Fusion Neural Network (PAMF-Net) processes pathway-spec
 Run [PAMF-Net.py](PAMF-Net.py)
 You can run PAMF-Net on TCGA-BRCA and METABRIC datasets. Select the dataset to run (line 33 in [PAMF-Net.py](PAMF-Net.py)).
 
-To plot lollipop plots illustrating log2 odds ratios of pathway mutations run :
+To plot lollipop plots illustrating log2 odds ratios of pathway mutations run [plots.py](plots.py):
 
-- 
-- METABRIC dataset
+- Select the dataset to run (line 13 in [plots.py](plots.py)).
+- Select the pathway (line 55 in [plots.py](plots.py))
